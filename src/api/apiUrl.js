@@ -1,0 +1,1 @@
+export const baseApiUrl = 'https://hw-63-new-default-rtdb.firebaseio.com/';
